@@ -1,2 +1,5 @@
 .vscode/settings.json
 .obsidian/*
+*.toRedact
+*.toVerify
+*.original

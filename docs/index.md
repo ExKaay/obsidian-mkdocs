@@ -1,6 +1,6 @@
 # Obsidian Notes
 
-Publish your public notes with MkDocs
+These are my published Obsidian notes.
 
 ## Hello World!
 
