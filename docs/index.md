@@ -2,6 +2,13 @@
 
 These are my published Obsidian notes.
 
+## ToDo
+- Fix Callouts
+
+- Fix Lists
+
+- Fix Embeds
+
 ## Hello World!
 
 The `index.md` in the `/docs` folder is the homepage you see here.
